@@ -1528,3 +1528,995 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.17-16.30.50:145][648]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
 [2025.10.17-16.30.50:266][650]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
 [2025.10.17-16.30.59:322][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.10.17-16.31.56:616][983]LogSlate: Window 'Message Log' being destroyed
+[2025.10.17-16.32.04:385][ 84]LogDerivedDataCache: C:/Users/Matth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.17-16.32.12:433][493]LogSlate: Took 0.007921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.17-16.32.36:217][168]LogStreaming: Display: FlushAsyncLoading(426): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.17-16.33.00:368][648]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.10.17-16.33.04:860][ 33]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyOcean
+[2025.10.17-16.33.04:861][ 33]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyOcean
+[2025.10.17-16.33.04:861][ 33]LogStreaming: Display: FlushAsyncLoading(435): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.17-16.33.04:863][ 33]LogTexture: Display: Building textures: /Water/Icons/WaterBodyOceanSprite.WaterBodyOceanSprite (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.333209 MB), EncodeSpeed: Fast
+[2025.10.17-16.33.04:864][ 33]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyOcean as actor: WaterBodyOcean /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.WaterBodyOcean_0
+[2025.10.17-16.33.05:079][ 33]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.10.dll
+[2025.10.17-16.33.05:094][ 33]LogTexture: Display: Building textures: /Water/Textures/Flowmaps/RiverFlowmap_Normal.RiverFlowmap_Normal (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 82.499988 MB), EncodeSpeed: Fast
+[2025.10.17-16.33.05:094][ 33]LogTexture: Display: Building textures: /Water/Textures/Flowmaps/RiverFlowmap_Diffuse.RiverFlowmap_Diffuse (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.10.17-16.33.05:133][ 33]LogTexture: Display: Building textures: /Water/Textures/Black.Black (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 1.16142 MB), EncodeSpeed: Fast
+[2025.10.17-16.33.05:135][ 33]LogTexture: Display: Building textures: /Water/Textures/BlackTexture2DArray.BlackTexture2DArray (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 1.116508 MB), EncodeSpeed: Fast
+[2025.10.17-16.33.05:138][ 33]LogTexture: Display: Building textures: /Water/Textures/Normals/T_Water_TilingNormal_With_Height_02_Softened.T_Water_TilingNormal_With_Height_02_Softened (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.583323 MB), EncodeSpeed: Fast
+[2025.10.17-16.33.05:281][ 33]LogTexture: Display: Building textures: /Water/Textures/Foam/T_WaterFlow_01_Foam_Tiled_N.T_WaterFlow_01_Foam_Tiled_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2025.10.17-16.33.05:344][ 33]LogTexture: Display: Building textures: /Water/Textures/Foam/T_WaterFlow_01_Foam_Tiled.T_WaterFlow_01_Foam_Tiled (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.10.17-16.33.05:376][ 33]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyOcean as actor: WaterBodyOcean /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.WaterBodyOcean_0
+[2025.10.17-16.33.09:494][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.17-16.33.09:536][324]LogEditorActor: Deleted 0 Actors (0.099 secs)
+[2025.10.17-16.33.09:544][324]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyOcean
+[2025.10.17-16.33.09:544][324]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyOcean
+[2025.10.17-16.33.09:552][324]LogActorFactory: Actor Factory attempting to spawn Class /Script/WaterEditor.WaterBrushManager
+[2025.10.17-16.33.09:644][324]LogActorFactory: Actor Factory spawned Class /Script/WaterEditor.WaterBrushManager as actor: WaterBrushManager /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.Landscape_WaterBrushManager_0
+[2025.10.17-16.33.09:644][324]LogStreaming: Display: FlushAsyncLoading(441): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.17-16.33.09:851][324]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterZone
+[2025.10.17-16.33.09:854][324]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterZone as actor: WaterZone /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.WaterZone_UAID_B42E99B8E6CE559902_1587420024
+[2025.10.17-16.33.09:854][324]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyOcean as actor: WaterBodyOcean /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.WaterBodyOcean_UAID_B42E99B8E6CE559902_1587113023
+[2025.10.17-16.33.09:865][324]LogStaticMesh: Display: Building static mesh WaterInfoMesh_0 (Required Memory Estimate: 0.074448 MB)...
+[2025.10.17-16.33.09:865][324]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_0 (Required Memory Estimate: 0.021923 MB)...
+[2025.10.17-16.33.09:866][324]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.WaterBodyOcean_UAID_B42E99B8E6CE559902_1587113023.WaterInfoDilatedMesh_0
+[2025.10.17-16.33.09:866][324]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.WaterBodyOcean_UAID_B42E99B8E6CE559902_1587113023.WaterInfoMesh_0
+[2025.10.17-16.33.09:867][324]LogStaticMesh: Warning: WaterInfoMesh_0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.17-16.33.09:867][324]LogStaticMesh: Warning: WaterInfoMesh_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.17-16.33.09:872][324]LogStaticMesh: Display: Building static mesh WaterInfoMesh_1 (Required Memory Estimate: 0.323105 MB)...
+[2025.10.17-16.33.09:872][324]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_1 (Required Memory Estimate: 0.17724 MB)...
+[2025.10.17-16.33.09:874][324]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.WaterBodyOcean_UAID_B42E99B8E6CE559902_1587113023.WaterInfoDilatedMesh_1
+[2025.10.17-16.33.09:875][324]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.WaterBodyOcean_UAID_B42E99B8E6CE559902_1587113023.WaterInfoMesh_1
+[2025.10.17-16.33.09:875][324]LogStaticMesh: Warning: WaterInfoMesh_1 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.17-16.33.09:875][324]LogStaticMesh: Warning: WaterInfoMesh_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.17-16.33.09:879][324]LogStaticMesh: Warning: WaterInfoMesh_2 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.17-16.33.09:879][324]LogStaticMesh: Warning: WaterInfoMesh_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.17-16.33.09:886][324]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyOcean as actor: WaterBodyOcean /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.WaterBodyOcean_UAID_B42E99B8E6CE559902_1587113023
+[2025.10.17-16.33.09:887][324]LogStaticMesh: Warning: WaterInfoMesh_3 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.17-16.33.09:887][324]LogStaticMesh: Warning: WaterInfoMesh_3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.17-16.33.09:895][324]LogStaticMesh: Warning: WaterInfoMesh_4 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.17-16.33.09:895][324]LogStaticMesh: Warning: WaterInfoMesh_4 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.17-16.33.09:901][324]LogStaticMesh: Warning: WaterInfoMesh_5 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.17-16.33.09:901][324]LogStaticMesh: Warning: WaterInfoMesh_5 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.17-16.33.09:907][324]LogStaticMesh: Warning: WaterInfoMesh_6 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.17-16.33.09:907][324]LogStaticMesh: Warning: WaterInfoMesh_6 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.17-16.33.09:914][324]LogStaticMesh: Warning: WaterInfoMesh_7 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.17-16.33.09:914][324]LogStaticMesh: Warning: WaterInfoMesh_7 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.17-16.33.24:948][714]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.10.17-16.33.40:047][134]LogShaderCompilers: Display: ================================================
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: Total job queries 2,956, among them cache hits 619 (20.94%), DDC hits 1,779 (60.18%), Duplicates 278 (9.40%)
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: Tracking 2,059 distinct input hashes that result in 1,247 distinct outputs (60.56%)
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: RAM used: 12.57 MiB of 3.20 GiB budget. Usage: 0.38%
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: Shaders Compiled: 220
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: Jobs assigned 229, completed 220 (96.07%)
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: Average time worker was idle: 10.32 s
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: Time job spent in pending queue: average 8.68 s, longest 29.40 s
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: Job execution time: average 3.86 s, max 12.19 s
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: Job life time (pending + execution): average 11.74 s, max 29.51
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: Shader code size: total 1.52 MiB, numShaders 226, average 6.885 KiB, min 1.395 KiB, max 37.82 KiB
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 48.54 s
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: Jobs were issued in 152 batches (only local compilation was used), average 1.51 jobs/batch
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: Average processing rate: 4.53 jobs/sec
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: Total thread time: 370.083 s
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: Total thread preprocess time: 103.909 s
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: Percentage time preprocessing: 28.08%
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: Effective parallelization: 7.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.953020
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display:            TBasePassPSFNoLightMapPolicySkylightForceVelocity (compiled    2 times, average 11.05 sec, max 11.79 sec, min 10.32 sec)
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display:                     TVirtualTexturePSBaseColorNormalSpecular (compiled    2 times, average 6.22 sec, max 7.20 sec, min 5.24 sec)
+[2025.10.17-16.33.40:048][134]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 5.21 sec, max 5.21 sec, min 5.21 sec)
+[2025.10.17-16.33.40:049][134]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 5.14 sec, max 5.14 sec, min 5.14 sec)
+[2025.10.17-16.33.40:049][134]LogShaderCompilers: Display:                                 TVirtualTexturePSWorldHeight (compiled    2 times, average 5.08 sec, max 5.88 sec, min 4.29 sec)
+[2025.10.17-16.33.40:049][134]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.17-16.33.40:049][134]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.40% of total time (compiled   15 times, average 2.81 sec, max 3.96 sec, min 1.42 sec)
+[2025.10.17-16.33.40:049][134]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 11.15% of total time (compiled   15 times, average 2.75 sec, max 3.90 sec, min 1.24 sec)
+[2025.10.17-16.33.40:049][134]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.02% of total time (compiled    9 times, average 3.71 sec, max 5.25 sec, min 2.32 sec)
+[2025.10.17-16.33.40:049][134]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.36% of total time (compiled   18 times, average 1.31 sec, max 3.66 sec, min 0.51 sec)
+[2025.10.17-16.33.40:049][134]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 6.10% of total time (compiled   16 times, average 1.41 sec, max 5.83 sec, min 0.54 sec)
+[2025.10.17-16.33.40:049][134]LogShaderCompilers: Display: === Material stats ===
+[2025.10.17-16.33.40:049][134]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.17-16.33.40:049][134]LogShaderCompilers: Display: Materials Translated:    176
+[2025.10.17-16.33.40:050][134]LogShaderCompilers: Display: Material Total Translate Time: 0.31 s
+[2025.10.17-16.33.40:050][134]LogShaderCompilers: Display: Material Translation Only: 0.22 s (70%)
+[2025.10.17-16.33.40:050][134]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (2%)
+[2025.10.17-16.33.40:050][134]LogShaderCompilers: Display: Material Cache Hits: 68 (39%)
+[2025.10.17-16.33.40:050][134]LogShaderCompilers: Display: ================================================
+[2025.10.17-16.34.06:767][146]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_1_1_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.34.06:770][146]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_1_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.34.06:773][146]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.34.07:518][169]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_1_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.34.07:520][169]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.35.12:165][ 39]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_1_1_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.35.12:341][ 44]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_1_0_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.35.12:344][ 44]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_1_0_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.35.12:347][ 44]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_0_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.35.12:599][ 51]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_0_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.35.27:243][944]Cmd: DELETE
+[2025.10.17-16.35.27:243][944]Cmd: ACTOR DELETE
+[2025.10.17-16.35.27:263][944]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2025.10.17-16.35.27:309][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.17-16.35.27:313][944]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2025.10.17-16.35.39:209][977]Cmd: DELETE
+[2025.10.17-16.35.39:209][977]Cmd: ACTOR DELETE
+[2025.10.17-16.35.39:212][977]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2025.10.17-16.35.39:242][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.10.17-16.35.39:246][977]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2025.10.17-16.35.40:611][ 85]Cmd: DELETE
+[2025.10.17-16.35.40:611][ 85]Cmd: ACTOR DELETE
+[2025.10.17-16.35.40:615][ 85]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2025.10.17-16.35.40:654][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.10.17-16.35.40:657][ 85]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2025.10.17-16.35.41:507][150]Cmd: DELETE
+[2025.10.17-16.35.41:507][150]Cmd: ACTOR DELETE
+[2025.10.17-16.35.41:510][150]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2025.10.17-16.35.41:547][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.10.17-16.35.41:550][150]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2025.10.17-16.35.45:974][515]Cmd: DELETE
+[2025.10.17-16.35.45:974][515]Cmd: ACTOR DELETE
+[2025.10.17-16.35.45:977][515]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2025.10.17-16.35.45:985][515]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2025.10.17-16.35.45:993][515]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2025.10.17-16.35.46:001][515]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2025.10.17-16.35.46:008][515]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2025.10.17-16.35.46:015][515]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2025.10.17-16.35.46:022][515]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2025.10.17-16.35.46:029][515]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2025.10.17-16.35.46:035][515]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2025.10.17-16.35.46:041][515]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2025.10.17-16.35.46:047][515]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2025.10.17-16.35.46:053][515]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2025.10.17-16.35.46:082][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.17-16.35.46:085][515]LogEditorActor: Deleted 12 Actors (0.111 secs)
+[2025.10.17-16.35.48:950][782]Cmd: DELETE
+[2025.10.17-16.35.48:950][782]Cmd: ACTOR DELETE
+[2025.10.17-16.35.48:954][782]LogEditorActor: Actor Landscape is referenced by Landscape_WaterBrushManager.
+[2025.10.17-16.35.52:498][782]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.10.17-16.35.52:504][782]LogEditorActor: Deleted Actor: Landscape
+[2025.10.17-16.35.52:524][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.10.17-16.35.52:527][782]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.10.17-16.35.52:550][782]LogAutomationController: Ignoring very large delta of 3.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.17-16.35.53:895][917]Cmd: DELETE
+[2025.10.17-16.35.53:895][917]Cmd: ACTOR DELETE
+[2025.10.17-16.35.53:898][917]LogEditorActor: Deleted Actor: WaterBrushManager
+[2025.10.17-16.35.53:928][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.10.17-16.35.53:930][917]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.10.17-16.36.13:594][818]LogStreaming: Display: FlushAsyncLoading(452): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.17-16.36.14:379][851]Cmd: DELETE
+[2025.10.17-16.36.14:379][851]Cmd: ACTOR DELETE
+[2025.10.17-16.36.14:381][851]LogEditorActor: Deleted Actor: WaterBodyOcean
+[2025.10.17-16.36.14:413][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.10.17-16.36.14:416][851]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2025.10.17-16.36.16:594][ 79]Cmd: DELETE
+[2025.10.17-16.36.16:595][ 79]Cmd: ACTOR DELETE
+[2025.10.17-16.36.16:597][ 79]LogEditorActor: Deleted Actor: WaterZone
+[2025.10.17-16.36.16:623][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.10.17-16.36.16:626][ 79]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.10.17-16.36.24:986][ 28]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 351.458313
+[2025.10.17-16.36.25:157][ 48]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.17-16.36.25:158][ 48]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 351.618622, Update Interval: 322.350525
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: ================================================
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: Total job queries 2,959, among them cache hits 620 (20.95%), DDC hits 1,779 (60.12%), Duplicates 278 (9.40%)
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: Tracking 2,061 distinct input hashes that result in 1,281 distinct outputs (62.15%)
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: RAM used: 12.89 MiB of 3.20 GiB budget. Usage: 0.39%
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: Shaders Compiled: 282
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: Jobs assigned 282, completed 282 (100%)
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: Average time worker was idle: 7.95 s
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: Time job spent in pending queue: average 13.66 s, longest 44.14 s
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: Job execution time: average 3.61 s, max 12.19 s
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: Job life time (pending + execution): average 17.27 s, max 47.66
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: Shader code size: total 2.109 MiB, numShaders 288, average 7.5 KiB, min 1.395 KiB, max 37.82 KiB
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 68.46 s
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: Jobs were issued in 205 batches (only local compilation was used), average 1.38 jobs/batch
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: Average processing rate: 4.12 jobs/sec
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: Total thread time: 532.969 s
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: Total thread preprocess time: 107.376 s
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: Percentage time preprocessing: 20.15%
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: Effective parallelization: 7.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.973138
+[2025.10.17-16.36.40:049][766]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.17-16.36.40:050][766]LogShaderCompilers: Display:            TBasePassPSFNoLightMapPolicySkylightForceVelocity (compiled    2 times, average 11.05 sec, max 11.79 sec, min 10.32 sec)
+[2025.10.17-16.36.40:050][766]LogShaderCompilers: Display:                     TVirtualTexturePSBaseColorNormalSpecular (compiled    2 times, average 6.22 sec, max 7.20 sec, min 5.24 sec)
+[2025.10.17-16.36.40:050][766]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    5 times, average 5.39 sec, max 6.83 sec, min 4.30 sec)
+[2025.10.17-16.36.40:050][766]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    5 times, average 5.30 sec, max 6.31 sec, min 4.27 sec)
+[2025.10.17-16.36.40:050][766]LogShaderCompilers: Display:                                 TVirtualTexturePSWorldHeight (compiled    2 times, average 5.08 sec, max 5.88 sec, min 4.29 sec)
+[2025.10.17-16.36.40:050][766]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.17-16.36.40:050][766]LogShaderCompilers: Display:                                             FDebugViewModePS - 13.30% of total time (compiled   16 times, average 4.43 sec, max 7.14 sec, min 2.32 sec)
+[2025.10.17-16.36.40:050][766]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.38% of total time (compiled   17 times, average 2.94 sec, max 3.96 sec, min 1.42 sec)
+[2025.10.17-16.36.40:050][766]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.13% of total time (compiled   17 times, average 2.86 sec, max 3.90 sec, min 1.24 sec)
+[2025.10.17-16.36.40:050][766]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.28% of total time (compiled   18 times, average 1.86 sec, max 2.73 sec, min 1.05 sec)
+[2025.10.17-16.36.40:050][766]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.02% of total time (compiled   24 times, average 1.34 sec, max 3.66 sec, min 0.51 sec)
+[2025.10.17-16.36.40:050][766]LogShaderCompilers: Display: === Material stats ===
+[2025.10.17-16.36.40:050][766]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.17-16.36.40:050][766]LogShaderCompilers: Display: Materials Translated:    177
+[2025.10.17-16.36.40:050][766]LogShaderCompilers: Display: Material Total Translate Time: 0.31 s
+[2025.10.17-16.36.40:050][766]LogShaderCompilers: Display: Material Translation Only: 0.22 s (70%)
+[2025.10.17-16.36.40:050][766]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (2%)
+[2025.10.17-16.36.40:050][766]LogShaderCompilers: Display: Material Cache Hits: 68 (38%)
+[2025.10.17-16.36.40:050][766]LogShaderCompilers: Display: ================================================
+[2025.10.17-16.38.07:795][412]LogAutomationController: Ignoring very large delta of 3.99 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.17-16.38.33:804][475]Cmd: TRANSACTION UNDO
+[2025.10.17-16.38.33:804][475]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.10.17-16.38.59:079][ 80]Cmd: TRANSACTION UNDO
+[2025.10.17-16.38.59:079][ 80]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.10.17-16.38.59:121][ 80]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.38.59:122][ 80]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.38.59:122][ 80]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.38.59:123][ 80]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.39.19:240][265]Cmd: TRANSACTION UNDO
+[2025.10.17-16.39.19:240][265]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.10.17-16.39.19:295][265]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.39.19:296][265]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.39.19:296][265]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.39.19:296][265]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.39.19:593][269]Cmd: TRANSACTION UNDO
+[2025.10.17-16.39.19:593][269]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.10.17-16.39.19:634][269]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.39.19:634][269]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.39.20:077][288]Cmd: TRANSACTION UNDO
+[2025.10.17-16.39.20:077][288]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.10.17-16.39.20:562][311]Cmd: TRANSACTION UNDO
+[2025.10.17-16.39.20:562][311]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.10.17-16.39.42:024][795]Cmd: DELETE
+[2025.10.17-16.39.42:024][795]Cmd: ACTOR DELETE
+[2025.10.17-16.39.42:038][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.39.42:093][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.17-16.39.42:096][795]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2025.10.17-16.39.51:625][488]Cmd: DELETE
+[2025.10.17-16.39.51:625][488]Cmd: ACTOR DELETE
+[2025.10.17-16.39.51:629][488]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.39.51:657][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.10.17-16.39.51:661][488]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.10.17-16.39.52:449][553]Cmd: DELETE
+[2025.10.17-16.39.52:449][553]Cmd: ACTOR DELETE
+[2025.10.17-16.39.52:452][553]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.39.52:478][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.10.17-16.39.52:481][553]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.10.17-16.39.52:879][575]Cmd: DELETE
+[2025.10.17-16.39.52:879][575]Cmd: ACTOR DELETE
+[2025.10.17-16.39.52:882][575]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.39.52:906][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.17-16.39.52:908][575]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2025.10.17-16.39.53:629][625]Cmd: DELETE
+[2025.10.17-16.39.53:629][625]Cmd: ACTOR DELETE
+[2025.10.17-16.39.53:633][625]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.39.53:664][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.10.17-16.39.53:667][625]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2025.10.17-16.39.54:122][650]Cmd: DELETE
+[2025.10.17-16.39.54:122][650]Cmd: ACTOR DELETE
+[2025.10.17-16.39.54:126][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.39.54:160][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.17-16.39.54:164][650]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2025.10.17-16.39.54:485][665]Cmd: DELETE
+[2025.10.17-16.39.54:485][665]Cmd: ACTOR DELETE
+[2025.10.17-16.39.54:488][665]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.39.54:516][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.17-16.39.54:519][665]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.10.17-16.39.55:060][707]Cmd: DELETE
+[2025.10.17-16.39.55:061][707]Cmd: ACTOR DELETE
+[2025.10.17-16.39.55:064][707]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.39.55:092][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.17-16.39.55:094][707]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.10.17-16.39.55:775][759]Cmd: DELETE
+[2025.10.17-16.39.55:775][759]Cmd: ACTOR DELETE
+[2025.10.17-16.39.55:777][759]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.39.55:803][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.17-16.39.55:806][759]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.10.17-16.39.56:690][826]Cmd: DELETE
+[2025.10.17-16.39.56:690][826]Cmd: ACTOR DELETE
+[2025.10.17-16.39.56:694][826]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.39.56:719][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.10.17-16.39.56:723][826]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.10.17-16.40.06:559][632]Cmd: DELETE
+[2025.10.17-16.40.06:559][632]Cmd: ACTOR DELETE
+[2025.10.17-16.40.06:566][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:567][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:569][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:570][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:571][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:573][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:574][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:575][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:576][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:577][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:579][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:580][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:581][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:582][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:584][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:585][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:586][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:587][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:589][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:590][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:591][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:592][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:594][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:595][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:596][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:597][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:598][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:600][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:601][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:602][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.06:625][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.10.17-16.40.06:630][632]LogEditorActor: Deleted 30 Actors (0.071 secs)
+[2025.10.17-16.40.12:946][173]Cmd: DELETE
+[2025.10.17-16.40.12:946][173]Cmd: ACTOR DELETE
+[2025.10.17-16.40.12:953][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.12:954][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.12:956][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.12:957][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.12:958][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.12:960][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.12:961][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.12:962][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.12:964][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.12:965][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.12:966][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.12:967][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.12:968][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.12:970][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-16.40.12:996][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.10.17-16.40.12:999][173]LogEditorActor: Deleted 14 Actors (0.053 secs)
+[2025.10.17-16.40.24:217][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.17-16.40.24:279][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_1_1_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:280][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_1_1_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:280][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_1_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:281][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_1_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:281][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_1_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:281][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_1_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:282][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:282][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:283][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_1_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:283][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_1_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:283][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:284][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:284][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_3_3_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:285][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_3_3_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:286][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_3_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:287][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_3_2_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:288][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_3_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:289][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_1_2_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:290][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_0_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:290][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_0_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:291][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_0_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:292][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_0_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:292][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_0_1_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:293][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_0_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:293][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_0_1_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:294][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_0_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:295][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_3_0_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:297][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_3_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:297][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_3_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:298][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_3_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:298][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_3_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:299][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_3_1_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:299][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_3_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:301][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_3_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:301][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_1_0_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:302][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_1_0_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:303][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_1_0_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:303][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_1_3_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:304][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_1_3_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:304][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_1_3_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:305][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_1_3_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:305][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_0_3_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:307][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_0_3_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:307][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_0_3_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:308][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_2_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:309][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:309][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_2_2_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:311][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_0_0_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:312][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_0_0_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:312][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_0_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:313][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_0_2_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:313][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_0_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:314][ 94]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_9MGXKVPD3MDBDEEIT2FQ6PTCL_126_0_2_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.40.24:339][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.17-16.40.24:367][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.10.17-16.40.24:396][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.17-16.40.24:414][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Lvl_FirstPerson" FILE="D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/FirstPerson/Lvl_FirstPerson.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.17-16.40.24:488][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.10.17-16.40.24:507][ 94]LogSavePackage: Moving output files for package: /Game/FirstPerson/Lvl_FirstPerson
+[2025.10.17-16.40.24:507][ 94]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/Lvl_FirstPerson8EA8C004427CFAB7F35DD6891A5C8AC2.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/FirstPerson/Lvl_FirstPerson.umap'
+[2025.10.17-16.40.24:526][ 94]LogFileHelpers: Saving map 'Lvl_FirstPerson' took 0.113
+[2025.10.17-16.40.24:556][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/D5/0A4Y10TP0QYB4DGOPUSMZY
+[2025.10.17-16.40.24:556][ 94]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/0A4Y10TP0QYB4DGOPUSMZY7DCB7A86443F983DBF351D8D7DEA0235.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/D5/0A4Y10TP0QYB4DGOPUSMZY.uasset'
+[2025.10.17-16.40.24:589][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/4H/9V30J5I3XBOWPMM3NEM9KE
+[2025.10.17-16.40.24:589][ 94]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/9V30J5I3XBOWPMM3NEM9KE55B3812D4A0769C27189BBB1DE09489C.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/4H/9V30J5I3XBOWPMM3NEM9KE.uasset'
+[2025.10.17-16.40.24:618][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/KV/67YHAIHZUW8OUUFR0VJO81
+[2025.10.17-16.40.24:618][ 94]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/67YHAIHZUW8OUUFR0VJO81ED395FFE49AEA6643C8DEF928B417E10.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/KV/67YHAIHZUW8OUUFR0VJO81.uasset'
+[2025.10.17-16.40.24:650][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/O2/9YSRO2K00BXBZFZNDNA35X
+[2025.10.17-16.40.24:650][ 94]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/9YSRO2K00BXBZFZNDNA35X55BE38784E82691EB08B949C25CA7429.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/O2/9YSRO2K00BXBZFZNDNA35X.uasset'
+[2025.10.17-16.40.24:681][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/7W/PM6U77VM8F8GNU8F882FX7
+[2025.10.17-16.40.24:681][ 94]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/PM6U77VM8F8GNU8F882FX7C10253E641E1AF2AA88C728DB6DC8DB4.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/7W/PM6U77VM8F8GNU8F882FX7.uasset'
+[2025.10.17-16.40.24:715][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/ZP/1EMWJECM63736ZXJL1440O
+[2025.10.17-16.40.24:715][ 94]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/1EMWJECM63736ZXJL1440O4B8F52214B465FE86391E9A1FAFF6776.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/ZP/1EMWJECM63736ZXJL1440O.uasset'
+[2025.10.17-16.40.24:741][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/OB/YT403KZWJ0SRLIHO9BOE57
+[2025.10.17-16.40.24:742][ 94]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/YT403KZWJ0SRLIHO9BOE57B3A7FA9B492C4BA0813AC49FA7DC7054.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/OB/YT403KZWJ0SRLIHO9BOE57.uasset'
+[2025.10.17-16.40.24:786][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/44/J0WBL4UBDFTUICIWM7VRKG
+[2025.10.17-16.40.24:786][ 94]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/J0WBL4UBDFTUICIWM7VRKG408BBDF4482BEF9F545262BB1A890061.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/44/J0WBL4UBDFTUICIWM7VRKG.uasset'
+[2025.10.17-16.40.24:817][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/TZ/FVFY80U3VY9F4XAUS6AJIB
+[2025.10.17-16.40.24:817][ 94]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/FVFY80U3VY9F4XAUS6AJIBB7384446495E84E092B971B3709231D9.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/TZ/FVFY80U3VY9F4XAUS6AJIB.uasset'
+[2025.10.17-16.40.24:847][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/13/9CPXOZOWDD9Y3MLNHQ3W0S
+[2025.10.17-16.40.24:847][ 94]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/9CPXOZOWDD9Y3MLNHQ3W0S1E912D484AA3732D54BDF289F225064B.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/13/9CPXOZOWDD9Y3MLNHQ3W0S.uasset'
+[2025.10.17-16.40.24:875][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/6S/WPT4W62CW5S0X80BGRAORV
+[2025.10.17-16.40.24:876][ 94]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/WPT4W62CW5S0X80BGRAORV647431114B633B11E6542E88C77E0C67.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/6S/WPT4W62CW5S0X80BGRAORV.uasset'
+[2025.10.17-16.40.24:907][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/86/7IBDP79R31U8LXEXC1VNQ4
+[2025.10.17-16.40.24:907][ 94]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/7IBDP79R31U8LXEXC1VNQ4559848D24CCE2DABC46A71B8BB13EEC5.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/86/7IBDP79R31U8LXEXC1VNQ4.uasset'
+[2025.10.17-16.40.24:936][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/ID/68V4D872P5IDEAPPGVKXPT
+[2025.10.17-16.40.24:936][ 94]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/68V4D872P5IDEAPPGVKXPTE085590647A99057B0DB4094C9D23DB7.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/ID/68V4D872P5IDEAPPGVKXPT.uasset'
+[2025.10.17-16.40.24:967][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/EL/F9924HMATIICWRRKCKRX7X
+[2025.10.17-16.40.24:967][ 94]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/F9924HMATIICWRRKCKRX7X41AD82724BCA9806128386A5F7B3C248.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/EL/F9924HMATIICWRRKCKRX7X.uasset'
+[2025.10.17-16.40.24:996][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/8A/4R1WU5YFMR1SNJOATNBXL6
+[2025.10.17-16.40.24:996][ 94]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/4R1WU5YFMR1SNJOATNBXL62DF8C3764370A5DFB83F39A76CA9FBAD.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/8A/4R1WU5YFMR1SNJOATNBXL6.uasset'
+[2025.10.17-16.40.25:025][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/II/3JRD29PKB50DDNGZL8I7NX
+[2025.10.17-16.40.25:025][ 94]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/3JRD29PKB50DDNGZL8I7NX0B5C2C1B482FC5AF2CCBCBA0CCC1138C.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/II/3JRD29PKB50DDNGZL8I7NX.uasset'
+[2025.10.17-16.40.25:056][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/6Z/DE24COUYNPYH009O3P72ZM
+[2025.10.17-16.40.25:056][ 94]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/DE24COUYNPYH009O3P72ZMCF0F34D54DC613BE6EAFA7A52018F4BA.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/6Z/DE24COUYNPYH009O3P72ZM.uasset'
+[2025.10.17-16.40.25:078][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 860.347 ms
+[2025.10.17-16.40.25:130][ 94]LogContentValidation: Display: Starting to validate 18 assets
+[2025.10.17-16.40.25:130][ 94]LogContentValidation: Enabled validators:
+[2025.10.17-16.40.25:130][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.17-16.40.25:130][ 94]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.17-16.40.25:130][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.17-16.40.25:130][ 94]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.17-16.40.25:130][ 94]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.17-16.40.25:130][ 94]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.17-16.40.25:130][ 94]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.17-16.40.25:215][ 94]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.17-16.40.27:866][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.17-16.40.27:954][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.10.17-16.40.27:981][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.10.17-16.40.28:008][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.10.17-16.40.28:017][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.509 ms (total: 1.01 sec)
+[2025.10.17-16.40.29:378][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.17-16.40.30:761][559]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.17-16.40.30:771][559]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.17-16.40.30:771][559]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.10.17-16.40.30:772][559]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 862 us
+[2025.10.17-16.40.30:772][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.17-16.40.30:790][559]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.10.17-16.40.30:790][559]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.10.17-16.40.30:790][559]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.17-16.40.30:817][559]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.17-16.40.30:823][559]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.568 ms
+[2025.10.17-16.40.30:823][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032898s)
+[2025.10.17-16.40.30:823][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.033023s)
+[2025.10.17-16.40.30:849][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.10.17-16.40.30:850][559]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.10.17-16.40.30:853][559]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.17-16.40.30:853][559]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.17-16.40.30:853][559]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.17-16.40.30:853][559]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.17-16.40.30:859][559]LogWorldPartition: Display: WorldPartition initialize took 6.281 ms (total: 732.981 ms)
+[2025.10.17-16.40.30:859][559]LogPlayLevel: PIE: World Init took: (0.009390s)
+[2025.10.17-16.40.30:861][559]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.10.17-16.40.30:861][559]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.17-16.40.30:861][559]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.17-16.40.30:862][559]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.17-16.40.30:862][559]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.17-16.40.30:862][559]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.17-16.40.30:862][559]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.17-16.40.30:862][559]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.17-16.40.30:862][559]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.17-16.40.30:862][559]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.17-16.40.30:862][559]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.17-16.40.30:862][559]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.17-16.40.30:865][559]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.17-16.40.30:921][559]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.17-16.40.30:921][559]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.17-16.40.30:921][559]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.17-16.40.30:921][559]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.17-16.40.30:922][559]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.10.17-16.40.30:922][559]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.10.17-16.40.30:925][559]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.10.17-16.40.30:925][559]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.10.17-16.40.30:925][559]LogInit: FAudioDevice initialized with ID 2.
+[2025.10.17-16.40.30:925][559]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_FirstPerson'.
+[2025.10.17-16.40.30:925][559]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.17-16.40.30:931][559]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.17-16.40.30:941][559]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.10.17-17.40.30
+[2025.10.17-16.40.30:942][559]LogWorld: Bringing up level for play took: 0.009702
+[2025.10.17-16.40.30:945][559]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2025.10.17-16.40.30:970][559]PIE: Server logged in
+[2025.10.17-16.40.30:973][559]PIE: Play in editor total start time 0.204 seconds.
+[2025.10.17-16.40.34:493][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.17-16.40.34:494][836]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.17-16.40.34:494][836]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.17-16.40.34:500][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-16.40.34:500][836]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.10.17-16.40.34:506][836]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.17-16.40.34:515][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-16.40.34:553][836]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.17-16.40.34:553][836]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.17-16.40.34:554][836]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.10.17-16.40.34:556][836]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.10.17-16.40.34:562][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.17-16.40.34:565][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.10.17-16.40.34:648][837]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.10.17-16.40.35:508][906]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.17-16.40.35:516][906]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.17-16.40.35:516][906]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.10.17-16.40.35:517][906]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 853 us (total: 1.715 ms)
+[2025.10.17-16.40.35:517][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.17-16.40.35:551][906]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.17-16.40.35:593][906]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.17-16.40.35:597][906]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.613 ms (total: 10.182 ms)
+[2025.10.17-16.40.35:597][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047111s)
+[2025.10.17-16.40.35:597][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.047234s)
+[2025.10.17-16.40.35:620][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.10.17-16.40.35:621][906]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.10.17-16.40.35:624][906]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.17-16.40.35:624][906]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.17-16.40.35:624][906]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.17-16.40.35:624][906]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.17-16.40.35:629][906]LogWorldPartition: Display: WorldPartition initialize took 5.419 ms (total: 738.401 ms)
+[2025.10.17-16.40.35:629][906]LogPlayLevel: PIE: World Init took: (0.007964s)
+[2025.10.17-16.40.35:631][906]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.10.17-16.40.35:631][906]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.17-16.40.35:631][906]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.17-16.40.35:631][906]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.17-16.40.35:631][906]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.17-16.40.35:631][906]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.17-16.40.35:631][906]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.17-16.40.35:631][906]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.17-16.40.35:631][906]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.17-16.40.35:631][906]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.17-16.40.35:631][906]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.17-16.40.35:631][906]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.17-16.40.35:634][906]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.17-16.40.35:698][906]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.17-16.40.35:698][906]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.17-16.40.35:698][906]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.17-16.40.35:698][906]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.17-16.40.35:699][906]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.10.17-16.40.35:699][906]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.10.17-16.40.35:702][906]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.10.17-16.40.35:702][906]LogInit: FAudioDevice initialized with ID 3.
+[2025.10.17-16.40.35:702][906]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.10.17-16.40.35:702][906]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_FirstPerson'.
+[2025.10.17-16.40.35:702][906]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.17-16.40.35:708][906]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.17-16.40.35:719][906]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.10.17-17.40.35
+[2025.10.17-16.40.35:720][906]LogWorld: Bringing up level for play took: 0.010975
+[2025.10.17-16.40.35:723][906]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.10.17-16.40.35:733][906]PIE: Server logged in
+[2025.10.17-16.40.35:737][906]PIE: Play in editor total start time 0.22 seconds.
+[2025.10.17-16.40.42:132][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.17-16.40.42:132][481]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.17-16.40.42:132][481]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.17-16.40.42:138][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-16.40.42:138][481]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.10.17-16.40.42:144][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.17-16.40.42:153][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-16.40.42:196][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.17-16.40.42:197][481]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.17-16.40.42:197][481]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.10.17-16.40.42:199][481]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.10.17-16.40.42:208][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.10.17-16.40.42:279][482]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.10.17-16.40.43:300][571]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.17-16.40.43:308][571]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.17-16.40.43:308][571]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.10.17-16.40.43:309][571]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 779 us (total: 2.494 ms)
+[2025.10.17-16.40.43:309][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.17-16.40.43:341][571]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.17-16.40.43:386][571]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.17-16.40.43:390][571]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.512 ms (total: 14.694 ms)
+[2025.10.17-16.40.43:390][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049480s)
+[2025.10.17-16.40.43:390][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.049585s)
+[2025.10.17-16.40.43:413][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.10.17-16.40.43:414][571]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.10.17-16.40.43:416][571]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.17-16.40.43:416][571]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.17-16.40.43:416][571]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.17-16.40.43:416][571]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.17-16.40.43:422][571]LogWorldPartition: Display: WorldPartition initialize took 5.788 ms (total: 744.189 ms)
+[2025.10.17-16.40.43:422][571]LogPlayLevel: PIE: World Init took: (0.008335s)
+[2025.10.17-16.40.43:424][571]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.10.17-16.40.43:424][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.17-16.40.43:424][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.17-16.40.43:424][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.17-16.40.43:424][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.17-16.40.43:424][571]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.17-16.40.43:424][571]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.17-16.40.43:424][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.17-16.40.43:424][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.17-16.40.43:424][571]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.17-16.40.43:424][571]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.17-16.40.43:424][571]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.17-16.40.43:427][571]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.17-16.40.43:493][571]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.17-16.40.43:493][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.17-16.40.43:493][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.17-16.40.43:493][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.17-16.40.43:493][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.10.17-16.40.43:493][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.10.17-16.40.43:497][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.10.17-16.40.43:497][571]LogInit: FAudioDevice initialized with ID 4.
+[2025.10.17-16.40.43:497][571]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.10.17-16.40.43:497][571]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_FirstPerson'.
+[2025.10.17-16.40.43:497][571]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.17-16.40.43:503][571]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.17-16.40.43:514][571]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.10.17-17.40.43
+[2025.10.17-16.40.43:514][571]LogWorld: Bringing up level for play took: 0.010818
+[2025.10.17-16.40.43:517][571]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.10.17-16.40.43:527][571]PIE: Server logged in
+[2025.10.17-16.40.43:530][571]PIE: Play in editor total start time 0.222 seconds.
+[2025.10.17-16.40.47:292][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.17-16.40.47:292][896]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.17-16.40.47:292][896]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.17-16.40.47:296][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-16.40.47:297][896]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.10.17-16.40.47:300][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.17-16.40.47:305][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-16.40.47:343][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.17-16.40.47:344][896]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.17-16.40.47:344][896]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.10.17-16.40.47:347][896]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.10.17-16.40.47:361][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.10.17-16.40.47:494][897]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.10.17-16.41.07:759][399]Cmd: TRANSACTION UNDO
+[2025.10.17-16.41.07:759][399]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.10.17-16.41.18:932][ 15]Cmd: TRANSACTION UNDO
+[2025.10.17-16.41.18:932][ 15]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.10.17-16.41.18:958][ 15]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.41.18:959][ 15]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.41.19:382][ 24]Cmd: TRANSACTION UNDO
+[2025.10.17-16.41.19:382][ 24]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.10.17-16.41.19:426][ 24]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.41.19:427][ 24]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.41.19:428][ 24]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.41.19:428][ 24]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.41.19:709][ 36]Cmd: TRANSACTION UNDO
+[2025.10.17-16.41.19:710][ 36]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.10.17-16.41.24:006][290]Cmd: TRANSACTION UNDO
+[2025.10.17-16.41.24:006][290]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.10.17-16.41.27:305][459]Cmd: TRANSACTION UNDO
+[2025.10.17-16.41.27:305][459]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.10.17-16.41.32:408][776]Cmd: TRANSACTION UNDO
+[2025.10.17-16.41.32:408][776]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.10.17-16.41.38:191][145]Cmd: TRANSACTION UNDO
+[2025.10.17-16.41.38:191][145]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.10.17-16.41.39:023][180]Cmd: TRANSACTION UNDO
+[2025.10.17-16.41.39:023][180]LogEditorTransaction: Undo Clicking on Actors
+[2025.10.17-16.41.40:429][284]Cmd: TRANSACTION REDO
+[2025.10.17-16.41.40:429][284]LogEditorTransaction: Redo Clicking on Actors
+[2025.10.17-16.41.51:493][ 27]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 677.969604
+[2025.10.17-16.41.51:627][ 37]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.17-16.41.51:627][ 37]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 678.090149, Update Interval: 334.937592
+[2025.10.17-16.41.53:596][171]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.41.53:608][171]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.41.53:611][171]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.41.53:614][171]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.02:101][612]Cmd: TRANSACTION UNDO
+[2025.10.17-16.42.02:101][612]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.10.17-16.42.02:157][612]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.02:158][612]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.02:159][612]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.02:160][612]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.02:161][612]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.02:161][612]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.02:162][612]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.02:163][612]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.30:076][295]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.30:080][295]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.35:857][664]Cmd: TRANSACTION UNDO
+[2025.10.17-16.42.35:858][664]LogEditorTransaction: Undo Move Elements
+[2025.10.17-16.42.36:659][698]Cmd: TRANSACTION UNDO
+[2025.10.17-16.42.36:659][698]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2025.10.17-16.42.36:692][698]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.36:693][698]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.36:694][698]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.36:695][698]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.36:696][698]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.36:697][698]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.37:978][785]Cmd: TRANSACTION REDO
+[2025.10.17-16.42.37:978][785]LogEditorTransaction: Redo Landscape Editing: Add ramp
+[2025.10.17-16.42.38:012][785]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.38:013][785]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.38:014][785]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.38:015][785]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.38:016][785]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.38:016][785]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.38:017][785]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.38:018][785]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.42.42:302][ 80]Cmd: TRANSACTION UNDO
+[2025.10.17-16.42.42:302][ 80]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2025.10.17-16.42.44:947][231]Cmd: SELECT NONE
+[2025.10.17-16.42.47:195][417]Cmd: SELECT NONE
+[2025.10.17-16.43.04:947][876]Cmd: TRANSACTION UNDO
+[2025.10.17-16.43.04:947][876]LogEditorTransaction: Undo Select None
+[2025.10.17-16.43.12:740][439]Cmd: SELECT NONE
+[2025.10.17-16.43.26:067][508]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.17-16.43.26:079][508]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.17-16.43.26:079][508]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.10.17-16.43.26:085][508]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 6.474 ms (total: 8.969 ms)
+[2025.10.17-16.43.26:086][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.17-16.43.26:111][508]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.17-16.43.26:143][508]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.17-16.43.26:149][508]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.291 ms (total: 20.985 ms)
+[2025.10.17-16.43.26:149][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038683s)
+[2025.10.17-16.43.26:149][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.038750s)
+[2025.10.17-16.43.26:209][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.10.17-16.43.26:211][508]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.10.17-16.43.26:215][508]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.17-16.43.26:215][508]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.17-16.43.26:215][508]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.17-16.43.26:215][508]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.17-16.43.26:222][508]LogWorldPartition: Display: WorldPartition initialize took 7.689 ms (total: 751.879 ms)
+[2025.10.17-16.43.26:222][508]LogPlayLevel: PIE: World Init took: (0.011208s)
+[2025.10.17-16.43.26:224][508]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.10.17-16.43.26:224][508]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.17-16.43.26:224][508]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.17-16.43.26:224][508]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.17-16.43.26:225][508]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.17-16.43.26:225][508]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.17-16.43.26:225][508]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.17-16.43.26:225][508]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.17-16.43.26:225][508]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.17-16.43.26:225][508]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.17-16.43.26:225][508]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.17-16.43.26:225][508]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.17-16.43.26:229][508]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.17-16.43.26:307][508]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.17-16.43.26:308][508]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.17-16.43.26:308][508]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.17-16.43.26:308][508]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.17-16.43.26:309][508]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.10.17-16.43.26:309][508]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.10.17-16.43.26:312][508]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.10.17-16.43.26:312][508]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.10.17-16.43.26:312][508]LogInit: FAudioDevice initialized with ID 5.
+[2025.10.17-16.43.26:312][508]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_FirstPerson'.
+[2025.10.17-16.43.26:313][508]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.17-16.43.26:319][508]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.17-16.43.26:331][508]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.10.17-17.43.26
+[2025.10.17-16.43.26:331][508]LogWorld: Bringing up level for play took: 0.011510
+[2025.10.17-16.43.26:335][508]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.10.17-16.43.26:346][508]PIE: Server logged in
+[2025.10.17-16.43.26:350][508]PIE: Play in editor total start time 0.271 seconds.
+[2025.10.17-16.43.28:282][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.17-16.43.28:282][621]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.17-16.43.28:282][621]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.17-16.43.28:285][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-16.43.28:285][621]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.10.17-16.43.28:288][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.17-16.43.28:293][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-16.43.28:336][621]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.17-16.43.28:336][621]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.17-16.43.28:336][621]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.10.17-16.43.28:339][621]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.10.17-16.43.28:348][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.17-16.43.28:353][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.10.17-16.43.28:409][622]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.10.17-16.43.35:523][166]Cmd: TRANSACTION UNDO
+[2025.10.17-16.43.35:523][166]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2025.10.17-16.43.35:766][169]Cmd: TRANSACTION UNDO
+[2025.10.17-16.43.35:766][169]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.10.17-16.43.35:813][169]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.35:814][169]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.35:815][169]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.35:816][169]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.35:935][170]Cmd: TRANSACTION UNDO
+[2025.10.17-16.43.35:935][170]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.10.17-16.43.35:965][170]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.35:965][170]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.35:966][170]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.35:966][170]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.36:090][172]Cmd: TRANSACTION UNDO
+[2025.10.17-16.43.36:090][172]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.10.17-16.43.36:489][195]Cmd: TRANSACTION UNDO
+[2025.10.17-16.43.36:489][195]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.10.17-16.43.36:541][195]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.36:542][195]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.36:543][195]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.36:544][195]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.36:545][195]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.36:545][195]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.36:546][195]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.36:547][195]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.36:794][210]Cmd: TRANSACTION UNDO
+[2025.10.17-16.43.36:794][210]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.10.17-16.43.36:848][210]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.36:849][210]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.36:849][210]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.36:850][210]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.36:851][210]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.36:852][210]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.36:853][210]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.36:853][210]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.37:028][218]Cmd: TRANSACTION UNDO
+[2025.10.17-16.43.37:029][218]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.10.17-16.43.37:076][218]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.37:077][218]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.37:078][218]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.37:079][218]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.37:079][218]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.37:080][218]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.37:081][218]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.37:081][218]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.37:335][232]Cmd: TRANSACTION UNDO
+[2025.10.17-16.43.37:335][232]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.10.17-16.43.37:382][232]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.37:383][232]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.37:384][232]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.37:385][232]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.43.37:754][257]Cmd: TRANSACTION UNDO
+[2025.10.17-16.43.37:754][257]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.10.17-16.44.09:837][530]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.44.09:848][530]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.44.33:750][173]Cmd: TRANSACTION UNDO
+[2025.10.17-16.44.33:750][173]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2025.10.17-16.44.33:779][173]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.44.33:779][173]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.44.33:780][173]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.44.33:781][173]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.44.35:142][229]Cmd: SELECT NONE
+[2025.10.17-16.44.43:623][889]Cmd: TRANSACTION UNDO
+[2025.10.17-16.44.43:623][889]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2025.10.17-16.44.44:053][900]Cmd: SELECT NONE
+[2025.10.17-16.44.51:448][448]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.44.51:450][448]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.44.56:672][720]Cmd: TRANSACTION UNDO
+[2025.10.17-16.44.56:672][720]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.10.17-16.44.56:758][720]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_2_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.44.56:760][720]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.44.56:761][720]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.44.56:762][720]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.44.56:762][720]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.44.56:763][720]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.44.56:763][720]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.44.56:764][720]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.44.56:764][720]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.44.56:765][720]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.44.56:765][720]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.44.56:766][720]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.44.56:767][720]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.45.08:456][567]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.17-16.45.08:465][567]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.17-16.45.08:465][567]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.10.17-16.45.08:471][567]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 6.036 ms (total: 15.006 ms)
+[2025.10.17-16.45.08:471][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.17-16.45.08:472][567]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.17-16.45.08:506][567]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.17-16.45.08:513][567]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.689 ms (total: 27.675 ms)
+[2025.10.17-16.45.08:513][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041471s)
+[2025.10.17-16.45.08:513][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.041523s)
+[2025.10.17-16.45.08:548][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.10.17-16.45.08:551][567]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.10.17-16.45.08:554][567]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.17-16.45.08:554][567]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.17-16.45.08:554][567]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.17-16.45.08:554][567]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.17-16.45.08:561][567]LogWorldPartition: Display: WorldPartition initialize took 7.163 ms (total: 759.042 ms)
+[2025.10.17-16.45.08:561][567]LogPlayLevel: PIE: World Init took: (0.010477s)
+[2025.10.17-16.45.08:563][567]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.10.17-16.45.08:564][567]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.17-16.45.08:564][567]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.17-16.45.08:564][567]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.17-16.45.08:564][567]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.17-16.45.08:564][567]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.17-16.45.08:564][567]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.17-16.45.08:564][567]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.17-16.45.08:564][567]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.17-16.45.08:564][567]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.17-16.45.08:564][567]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.17-16.45.08:564][567]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.17-16.45.08:567][567]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.17-16.45.08:647][567]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.17-16.45.08:648][567]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.17-16.45.08:648][567]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.17-16.45.08:648][567]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.17-16.45.08:649][567]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.10.17-16.45.08:649][567]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.10.17-16.45.08:653][567]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.10.17-16.45.08:653][567]LogInit: FAudioDevice initialized with ID 6.
+[2025.10.17-16.45.08:653][567]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.10.17-16.45.08:653][567]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_FirstPerson'.
+[2025.10.17-16.45.08:653][567]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.17-16.45.08:660][567]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.17-16.45.08:673][567]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.10.17-17.45.08
+[2025.10.17-16.45.08:673][567]LogWorld: Bringing up level for play took: 0.012791
+[2025.10.17-16.45.08:677][567]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.10.17-16.45.08:688][567]PIE: Server logged in
+[2025.10.17-16.45.08:692][567]PIE: Play in editor total start time 0.227 seconds.
+[2025.10.17-16.45.16:633][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.17-16.45.16:633][113]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.17-16.45.16:633][113]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.17-16.45.16:639][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-16.45.16:639][113]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.10.17-16.45.16:645][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.17-16.45.16:652][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-16.45.16:680][113]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.17-16.45.16:680][113]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.17-16.45.16:682][113]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.10.17-16.45.16:683][113]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.10.17-16.45.16:688][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.17-16.45.16:691][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.10.17-16.45.16:731][114]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.10.17-16.45.20:656][410]Cmd: TRANSACTION UNDO
+[2025.10.17-16.45.20:656][410]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.10.17-16.45.20:692][410]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.45.20:692][410]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.45.20:693][410]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.45.20:694][410]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.45.20:694][410]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.45.20:695][410]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.45.20:695][410]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.45.20:696][410]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.45.20:696][410]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.45.20:697][410]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.45.21:261][427]Cmd: TRANSACTION UNDO
+[2025.10.17-16.45.21:261][427]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2025.10.17-16.45.21:298][427]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.45.21:299][427]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.45.21:301][427]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.45.21:302][427]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.47.32:050][344]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1018.525330
+[2025.10.17-16.47.33:053][347]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.17-16.47.33:053][347]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1019.193665, Update Interval: 329.590759
+[2025.10.17-16.48.43:331][393]Cmd: TRANSACTION UNDO
+[2025.10.17-16.48.43:331][393]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.10.17-16.48.43:394][393]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.48.43:394][393]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.48.43:394][393]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.48.43:394][393]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.48.49:352][725]Cmd: TRANSACTION UNDO
+[2025.10.17-16.48.49:352][725]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.10.17-16.48.49:410][725]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.48.49:412][725]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.48.49:413][725]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.48.49:415][725]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.48.56:909][191]Cmd: TRANSACTION UNDO
+[2025.10.17-16.48.56:909][191]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.10.17-16.48.58:672][294]Cmd: TRANSACTION UNDO
+[2025.10.17-16.48.58:673][294]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2025.10.17-16.48.59:801][373]Cmd: TRANSACTION REDO
+[2025.10.17-16.48.59:801][373]LogEditorTransaction: Redo Landscape Editing: Add ramp
+[2025.10.17-16.50.21:760][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.17-16.50.21:851][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.10.17-16.50.21:881][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.17-16.50.21:908][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.17-16.50.21:914][829]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_0_1_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.50.21:916][829]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_0_1_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.50.21:945][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/ZP/1EMWJECM63736ZXJL1440O
+[2025.10.17-16.50.21:945][829]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/1EMWJECM63736ZXJL1440OA504C35B431EC88FEC88BE89C612BE3E.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/ZP/1EMWJECM63736ZXJL1440O.uasset'
+[2025.10.17-16.50.21:950][829]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.50.21:952][829]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_1_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.50.21:978][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/OB/YT403KZWJ0SRLIHO9BOE57
+[2025.10.17-16.50.21:978][829]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/YT403KZWJ0SRLIHO9BOE576F0D6E094AD1A44A054BD9851BAEF358.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/OB/YT403KZWJ0SRLIHO9BOE57.uasset'
+[2025.10.17-16.50.22:002][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/44/J0WBL4UBDFTUICIWM7VRKG
+[2025.10.17-16.50.22:003][829]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/J0WBL4UBDFTUICIWM7VRKG8A1D74064B0E7B2A38F0089E6C4FD0C5.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/44/J0WBL4UBDFTUICIWM7VRKG.uasset'
+[2025.10.17-16.50.22:010][829]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_0_2_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.50.22:012][829]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_0_2_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.50.22:032][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/13/9CPXOZOWDD9Y3MLNHQ3W0S
+[2025.10.17-16.50.22:032][829]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/9CPXOZOWDD9Y3MLNHQ3W0S65FEBF504DF04DC1E9503E8E68FFB708.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/13/9CPXOZOWDD9Y3MLNHQ3W0S.uasset'
+[2025.10.17-16.50.22:036][829]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.50.22:038][829]LogTexture: Display: Building textures: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LandscapeStreamingProxy_DHIP6H6DI3C5U387KOOFALPCN_126_1_2_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.10.17-16.50.22:060][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/6S/WPT4W62CW5S0X80BGRAORV
+[2025.10.17-16.50.22:061][829]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/WPT4W62CW5S0X80BGRAORV1981B6AE4F0E6E3B6637AE8B1AB56EE1.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/6S/WPT4W62CW5S0X80BGRAORV.uasset'
+[2025.10.17-16.50.22:085][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/86/7IBDP79R31U8LXEXC1VNQ4
+[2025.10.17-16.50.22:085][829]LogSavePackage: Moving 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Saved/7IBDP79R31U8LXEXC1VNQ41FA82B3844BF3481072149A75B994908.tmp' to 'D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/86/7IBDP79R31U8LXEXC1VNQ4.uasset'
+[2025.10.17-16.50.22:097][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 336.970 ms (total: 1.34 sec)
+[2025.10.17-16.50.22:140][829]LogContentValidation: Display: Starting to validate 6 assets
+[2025.10.17-16.50.22:140][829]LogContentValidation: Enabled validators:
+[2025.10.17-16.50.22:140][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.17-16.50.22:140][829]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.17-16.50.22:140][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.17-16.50.22:140][829]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.17-16.50.22:140][829]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.17-16.50.22:140][829]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.17-16.50.22:140][829]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.17-16.50.24:263][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.10.17-16.50.27:200][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.17-16.50.27:299][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.17-16.50.27:330][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.17-16.50.27:359][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.17-16.50.27:371][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.594 ms (total: 1.51 sec)
