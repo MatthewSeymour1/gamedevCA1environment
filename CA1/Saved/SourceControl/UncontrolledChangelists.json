@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/53/92M9ZVNARWTKUW1TNFCDZ8.uasset",
+				"D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/PL/12ZB8JPDX87201XWUI6UT3.uasset",
+				"D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/VQ/LIJB3NSB7CL4SX8TF21G7L.uasset",
+				"D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/EU/73Q3NLZNB1UPV09J02UJ7F.uasset",
+				"D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/QG/AOZAPEUMDK9Z1FZ445FO5Q.uasset",
+				"D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/44/13S0KHYWU81XKNFTAWJW85.uasset",
+				"D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/39/CW2VR0KMDFVAU842E2P6SY.uasset",
+				"D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/ZC/L4FNFMZAAZQ941FL6F9VT4.uasset",
+				"D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/79/3KYZ31ZU0IZQ0BSCWEZ8YF.uasset",
+				"D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/TQ/75P4I3AAS5906DBXCT0596.uasset",
+				"D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/D7/WWGK66UDEKOV6SEXUZA36S.uasset",
+				"D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/QJ/ZFNDXQ6CGCOV796GCEJ07A.uasset",
+				"D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/WG/11S7CZOGYUJ7DVVE4BWG7T.uasset",
+				"D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/VQ/B748T7X49N1OY5XITT3IRY.uasset",
+				"D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/S2/HAXTK2BUN5D6GRU7U3GXY0.uasset",
+				"D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/5Z/6YOT94BWYSV0NQQ2M6ZWTI.uasset",
+				"D:/AAAAAAGameDevY3/gamedevCA1environment/CA1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/GF/Z253HFTZIWKG0DN08RXEGL.uasset"
+			]
+		}
+	]
+}
