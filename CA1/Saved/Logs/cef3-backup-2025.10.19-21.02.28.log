@@ -1,0 +1,4 @@
+[1019/215755.248:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1019/220228.133:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
